@@ -5,32 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Flask
+- name: Angular
   weight: 5
 
-- name: SQLAlchemy
+- name: AngularJS
   weight: 3
-
-- name: Alembic
-  weight: 3
-
-- name: boto3
-  weight: 4
-
-- name: FastAPI
-  weight: 4
 
 - name: React
+  weight: 4
+
+- name: Node
   weight: 1
 
-- name: Pandas
+- name: Flutter
   weight: 2
 
-- name: Tensorflow
-  weight: 1
+- name: Express
+  weight: 3
 
 - name: Django
+  weight: 1
+
+- name: Spring
   weight: 2
 
-- name: Spring Boot
-  weight: 1
+- name: Rails
+  weight: 4
