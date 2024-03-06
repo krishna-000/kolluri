@@ -45,7 +45,7 @@
 
 - title: UL
   title-url: https://www.ul.com/
-  date: Feb 2021 - Feb 2022
+  date: Jan 2020 - Feb 2022
   subtitle: Senior Software Engineer
   tags:
     - tag: Python
@@ -54,20 +54,9 @@
     - tag: ECS
     - tag: AWS
     - tag: Jenkins
+    - tag: Airflow
   timeline-side: left
 
-- title: Fission Labs
-  title-url: https://www.fissionlabs.com/
-  date: Jan 2020 - Feb 2021
-  subtitle: Senior Software Engineer
-  tags:
-    - tag: Python
-    - tag: Flask
-    - tag: S3
-    - tag: ECS
-    - tag: AWS
-    - tag: Airflow
-  timeline-side: right
 
 - title: Path Presenter
   title-url: https://www.pathpresenter.com/
@@ -80,7 +69,7 @@
     - tag: ECS
     - tag: AWS
     - tag: Jenkins
-  timeline-side: left
+  timeline-side: right
 
 - title: Virgin Media
   title-url: https://www.virginmedia.com/
@@ -92,7 +81,7 @@
     - tag: Flask
     - tag: Python
     - tag: AWS
-  timeline-side: right
+  timeline-side: left
 
 - title: Virgin Media
   title-url: https://www.virginmedia.com/
@@ -104,7 +93,7 @@
     - tag: Hadoop
     - tag: PySpark
     - tag: Python
-  timeline-side: left
+  timeline-side: right
 
 - title: KL University
   title-url: https://www.kluniversity.in/
@@ -115,4 +104,4 @@
     - tag: Operating Systems
     - tag: Database Management Systems
     - tag: Theory Of Computation
-  timeline-side: right
+  timeline-side: left
